@@ -1,6 +1,6 @@
 # [Beyond Autoregression: Fast LLMs via Self-Distillation Through Time](https://arxiv.org/abs/2410.21035)
 
-By [Justin Deschenaux](https://x.com/jdeschena) and [Caglar Gulcehre](https://www.caglarg.com).
+By [Justin Deschenaux](https://x.com/jdeschena) and [Caglar Gulcehre](https://x.com/caglarml).
 
 [![arXiv](https://img.shields.io/badge/arXiv-2406.07524-red.svg)](https://arxiv.org/abs/2410.21035)
 [![deploy](https://img.shields.io/badge/Blog%20%20-8A2BE2)](https://jdeschena.github.io/sdtt-blog)
